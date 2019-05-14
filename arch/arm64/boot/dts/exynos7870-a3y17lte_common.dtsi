@@ -734,7 +734,7 @@
 			&audio_codec_cod3026x
 			&audio_codec_cod3026x
 			&audio_codec_cod3026x>;
-		mic-bias-mode = <1 1 2 0>;
+		mic-bias-mode = <1 0 2 0>;
 		samsung,auxdev = <&s1402x>;
 		stand-alone-fm;	/*Enable it for FM radio AP Master Mode*/
 		status = "okay";
